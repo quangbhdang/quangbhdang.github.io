@@ -21,7 +21,7 @@
 title: Dang Quang
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi my name is Dang Quang.
+  Hi my name is Dang Quang and this is my personal site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://quangbhdang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  quangbhdang
@@ -58,3 +58,12 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      show_date: true
