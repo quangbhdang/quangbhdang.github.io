@@ -27,7 +27,7 @@ url: "https://quangbhdang.github.io" # the base hostname & protocol for your sit
 github_username:  quangbhdang
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
