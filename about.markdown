@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: About
+title: About Me
 permalink: /about/
 ---
 
@@ -26,4 +26,4 @@ Currently, my main focus is in the research in application, evaluation of genera
 
 ## Know somewhere or someone need myskills?
 
-Currently, I am looking for project or works that can utilise my expertise and unique combination of industry and data science knowledge. This allowed me to work on both side of the fences of industry requirement and engineering requirement.
+Currently, I am looking for project or works that can utilise my expertise and unique combination of business and data science knowledge. This allowed me to work on both side of the fences for commercial project or research project alike. If this sound like you don't hesitate to reach out to me and let me know what your project is all about.
