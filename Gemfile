@@ -8,11 +8,13 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.3.4"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+
 gem "minimal-mistakes-jekyll"
+
 gem "jekyll-remote-theme"
 
 group :jekyll_plugins do
+  gem "github-pages"
   gem "jekyll-paginate"
   gem "jekyll-gist"
   gem "jekyll-feed"
