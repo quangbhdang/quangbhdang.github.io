@@ -24,7 +24,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dang Quang"
 description              : "An personal project blogs."
-url                      : "quangbhdang.github.io" # the base hostname & protocol for your site
+url                      : "https//quangbhdang.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "quangbhdang/quangbhdang.github.io" # GitHub repository to help with GitHub Pages deployment
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
