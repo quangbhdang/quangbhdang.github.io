@@ -1,7 +1,7 @@
 ---
 title: "How AI Tools Mislead Us and How to Stay Informed"
 date: 2024-12-27
-layout: post
+layout: single
 tags: [AI, Machine Learning, Ethics, Deep Learning, LLMs]
 ---
 
