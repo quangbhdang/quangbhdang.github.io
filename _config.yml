@@ -116,8 +116,8 @@ analytics:
 # Site Author
 author:
   name             : "Dang Quang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi my name is Dang Quang. I am a data scientist and a marketing specialist"
+  avatar           : "assets/images/logo.png"
+  bio              : "Hi my name is Dang Quang. I am studying my Master in Artificial Intelligence after years in the Advertising & Marketing industry. My work focus in solving complex issues throught the help of big data and AI."
   location         : "Vietnam"
   email            :
   links:
