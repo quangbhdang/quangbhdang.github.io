@@ -23,22 +23,22 @@ title                    : "Dang Quang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dang Quang"
-description              : "An personal project blogs."
+description              : "I help organisation utilise the power of data and machine. I write mainly about AI tooling, Science & Business team collaboration and best practices. "
 url                      : "https://quangbhdang.github.io" # the base hostname & protocol for your site
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "quangbhdang/quangbhdang.github.io" # GitHub repository to help with GitHub Pages deployment
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of site logo, e.g. "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : # "copyright" name, defaults to site.title
+copyright                : "Dang Quang" # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "dangquang-net.disqus.com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -116,29 +116,29 @@ analytics:
 # Site Author
 author:
   name             : "Dang Quang"
-  avatar           : "assets/images/logo.png"
-  bio              : "Hi my name is Dang Quang. I am studying my Master in Artificial Intelligence after years in the Advertising & Marketing industry. My work focus in solving complex issues throught the help of big data and AI."
-  location         : "Vietnam"
+  avatar           : "assets/images/author.jpg"
+  bio              : "Hi my name is Dang Quang. I am studying my Master in Artificial Intelligence after years in the Advertising & Marketing industry. I enjoy solving complex issues throught the help of big data and AI."
+  location         : 
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   # url: "mailto:your.name@email.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   # url: "https://your-website.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/quangbhdang"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0009-0009-0183-1651"
 
 # Site Footer
 footer:
@@ -320,8 +320,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true

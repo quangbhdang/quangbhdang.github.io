@@ -1,12 +1,14 @@
 # main links
 main:
   - title: "Home"
-    url: https://quangbhdang.github.io/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /
+  - title: "About"
+    url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
-  # - title: "Sample Collections"
+  # - title: "Blogs"
   #   url: /collection-archive/
+  # - title: "Research"
+  #   url: /research/
   # - title: "Sitemap"
   #   url: /sitemap/
