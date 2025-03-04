@@ -1,7 +1,7 @@
 ---
 title: "Why it is challenging for medium to small business to invet in AI"
 layout: single
-date: 2015-02-10
+# date: 2025-02-10
 comments: true
 toc: true
 excerpt: "Dispite the opvious benefit in longterms it can be puzzling why some business refuse to invest in AI. Here are some reason."
