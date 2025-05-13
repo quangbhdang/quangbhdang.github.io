@@ -9,6 +9,6 @@ main:
   # - title: "Sample Posts"
   #   url: /year-archive/
   - title: "Research"
-    url: /research_published/
+    url: /research_published
   # - title: "Sitemap"
   #   url: /sitemap/
