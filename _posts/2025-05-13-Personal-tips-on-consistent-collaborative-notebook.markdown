@@ -3,8 +3,6 @@ title: "Personal tips on consistent collaborative Jupyter notebook"
 layout: single
 date: 2025-05-13
 comments: true
-toc: true
-excerpt: "Some of my personal tips on making your Jupyter Notebook more collaborative and consistent for team collaboration"
 permalink: /post/2025/05/collaboration_on_jupyter/
 tags:
     - Guide
