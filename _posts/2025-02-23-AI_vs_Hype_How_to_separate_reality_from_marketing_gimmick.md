@@ -1,12 +1,15 @@
 ---
 title: "AI vs. Hype: How to Separate Reality from Marketing Gimmicks"
 date: 2025-02-23
-author_profile: false
-comments: true
-layout: single
-toc: true
+# author_profile: false
+# comments: true
+# layout: single
+# toc: true
 excerpt: "A guide to help both technical and non-technical users navigate AI without getting caught in the hype."
-tags: [AI, General Thought, Non-Technical]
+permanlink: post/2025/02/ai_hype_and_reality
+tags:
+    - General thought
+    - Non-technical
 ---
 
 Artificial Intelligence: the magical genie that once dazzled the world with its promise of self-driving cars and machines that “understand” us. I have to admit I was among those captivated by these promises; otherwise, I would not have chosen to pursue AI for my postgrad studies.
