@@ -2,6 +2,7 @@
 title: "Personal tips on consistent collaborative Jupyter notebook"
 layout: single
 date: 2025-05-13
+comments: true
 permalink: /post/2025/05/collaboration_on_jupyter/
 tags:
     - Guide
