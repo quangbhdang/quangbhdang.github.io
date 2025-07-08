@@ -13,7 +13,7 @@ title                    : "Dang Quang"
 title_separator          : "-"
 name                     : &name "Quang Ba Hai Dang"
 description              : &description "A postgraduate student in AI with a passion for data storytelling"
-url                      : https://quangbhdang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://dangquang.net" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quangbhdang/quangbhdang.github.io"
 
