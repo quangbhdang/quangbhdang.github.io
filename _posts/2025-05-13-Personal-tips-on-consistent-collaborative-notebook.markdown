@@ -5,14 +5,17 @@ date: 2025-05-13
 comments: true
 toc: true
 excerpt: "Some of my personal tips on making your Jupyter Notebook more collaborative and consistent for team collaboration"
-tags: [AI, Tips, Jupyter, Data Science] 
+permalink: /post/2025/05/collaboration_on_jupyter/
+tags:
+    - Guide
+    - Collaboration
 ---
 
-Jupyter Notebook in my humble experience are some of the best tool there is to help data scientist, AI researcher to quickly iteratable codes to help exlore their researchs.
+Jupyter Notebook in my humble experience is one of the best tools there is to help data scientists and AI researchers quickly iterate on code to help explore their research.
 
-But often in real world it is very rare that you will be doing research all by yourselfs, unless it is your Master/PhD thesis. Instead you are more likely required to work collaboratively with different researchers, or developers to help developed and publish your models.
+But often in the real world it is very rare that you will be doing research all by yourself, unless it is your Master's/PhD thesis. Instead you are more likely required to work collaboratively with different researchers or developers to help develop and publish your models.
 
-However, as you will quickly find out like I did, Jupyter Notebook don't really promoted great coding practice by designs. There is a great talk on O'Relly by [Jel Grus]("https://www.youtube.com/watch?v=7jiPeIFXb6U") that discus this short coming of Jupyter Notebook.
+However, as you will quickly find out like I did, Jupyter Notebook doesn't really promote great coding practices by design. There is a great talk on O'Reilly by [Joel Grus](https://www.youtube.com/watch?v=7jiPeIFXb6U) that discusses this shortcoming of Jupyter Notebook.
 
 While some will arques that does this really matter if my code runs, an evening of spending debugging your fellow researchers notebook code to make it runs on your machine will make you question your sanity very quickly.
 
