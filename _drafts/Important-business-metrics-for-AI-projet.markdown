@@ -1,11 +1,10 @@
 ---
-title: "Why it is challenging for medium to small business to invet in AI"
-layout: single
-# date: 2025-02-10
-comments: true
-toc: true
-excerpt: "Dispite the opvious benefit in longterms it can be puzzling why some business refuse to invest in AI. Here are some reason."
-tags: [AI, metrics, application] 
+ layout: single
+ title: "Busines metrics for a AI/Data Science project"
+ categories:
+    - Jekyll
+tags:
+    - Guide
 ---
 
 As someone whom background was originally from the word of Advertising & Marketing Agency side of things. I am painfully aware of all the pain that come with miss communication between data scientist/data engineer and business team.
