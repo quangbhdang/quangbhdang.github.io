@@ -1,11 +1,6 @@
 ---
 title: "AI vs. Hype: How to Separate Reality from Marketing Gimmicks"
 date: 2025-02-23
-# author_profile: false
-# comments: true
-# layout: single
-# toc: true
-excerpt: "A guide to help both technical and non-technical users navigate AI without getting caught in the hype."
 permanlink: post/2025/02/ai_hype_and_reality
 tags:
     - General thought

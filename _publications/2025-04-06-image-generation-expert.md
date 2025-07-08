@@ -3,7 +3,6 @@ title: "Can Image Generation Be Considered An Expert?"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-image-generation-expert
-excerpt: 'This paper addresses foundational challenges in evaluating Generative Artificial Intelligence (GAI), focusing on the transition from expertise evaluation to intelligence evaluation.'
 date: 2025-01-01
 venue: 'SOICT 2024 - Information and Communication Technology'
 paperurl: 'https://doi.org/10.1007/978-981-96-4291-5_33'
