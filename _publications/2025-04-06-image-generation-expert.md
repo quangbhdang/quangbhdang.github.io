@@ -1,7 +1,7 @@
 ---
 title: "Can Image Generation Be Considered An Expert?"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-image-generation-expert
 date: 2025-01-01
 venue: 'SOICT 2024 - Information and Communication Technology'

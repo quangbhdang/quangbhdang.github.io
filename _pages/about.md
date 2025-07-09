@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About myself"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,5 +16,3 @@ I wanted to better understand what is behind Artificial Intelligence and when it
 - My research notes and understanding of AI research.
 - Helpful tips and guides during my learning journey.
 - My personal takes on the current human-AI fields.
-
-Hopefully, this will be helpful to those who are on a similar journey like me or simply to those who are curious about what it's like to be in this industry.
