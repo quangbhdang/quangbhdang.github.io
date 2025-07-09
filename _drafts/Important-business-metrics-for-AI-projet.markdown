@@ -1,10 +1,10 @@
 ---
- layout: single
- title: "Busines metrics for a AI/Data Science project"
- categories:
-    - Jekyll
+layout: single
+title: "Busines metrics for a AI/Data Science project"
+categories:
+   - Jekyll
 tags:
-    - Guide
+   - Guide
 ---
 
 As someone whom background was originally from the word of Advertising & Marketing Agency side of things. I am painfully aware of all the pain that come with miss communication between data scientist/data engineer and business team.

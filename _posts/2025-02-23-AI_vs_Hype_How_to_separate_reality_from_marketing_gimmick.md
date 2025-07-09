@@ -1,5 +1,5 @@
 ---
-title: "AI vs Hype: How to Separate Reality from Marketing Gimmicks"
+title: "How to Separate Reality from Marketing Gimmicks when it come to AI"
 date: 2025-02-23
 permanlink: posts/2025/02/ai_hype_and_reality/
 tags:
