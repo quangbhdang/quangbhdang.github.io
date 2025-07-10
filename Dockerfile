@@ -15,22 +15,23 @@ RUN groupadd -g 1000 vscode && \
 # Set the working directory
 WORKDIR /usr/src/app
 
+# Copy Gemfile first for better caching
+COPY Gemfile Gemfile.lock* ./
+
+# Install bundler and dependencies as root
+RUN gem install connection_pool:2.5.0
+RUN gem install bundler:2.3.26
+RUN bundle install
+
+# Copy all site files
+COPY . .
+
 # Set permissions for the working directory
 RUN chown -R vscode:vscode /usr/src/app
 
 # Switch to the non-root user
 USER vscode
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
-
-
-
-# Install bundler and dependencies
-RUN gem install connection_pool:2.5.0
-RUN gem install bundler:2.3.26
-RUN bundle install
-
-# Command to serve the Jekyll site
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w"]
+# Command to serve the site
+CMD ["jekyll", "serve", "-H", "0.0.0.0", "-P", "4000", "-w", "--livereload", "--config", "_config.yml,_config_docker.yml"]
 

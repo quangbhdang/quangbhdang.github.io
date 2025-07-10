@@ -1,1 +1,6 @@
-url: "localhost:4000" # the base hostname at local
+url: "http://localhost:4000"
+host: "0.0.0.0"
+port: 4000
+baseurl: ""
+livereload_port: 35729
+# Override the production URL for local development
