@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hi, my name is Quang Ba Hai Dang but people know me as Dang Quang 😊.
+## Hi, my name is Quang Ba Hai Dang but people know me as Dang Quang 😊
 
 I am a postgraduate in Artificial Intelligence with about 3 years experience in the Advertising and Marketing industry. I am passionate about technology, computer science, and data in general.
 
